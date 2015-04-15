@@ -28,4 +28,4 @@ val a = new StringBuilder("Hello")
 
 val r6 = a.append(", World").toString
 
-val r7ㅊㅗㅁㅔ1  = a.append(", World").toString
+val r7  = a.append(", World").toString

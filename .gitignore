@@ -2,6 +2,7 @@
 ### Scala template
 *.class
 *.log
+.idea
 
 # sbt specific
 .cache
